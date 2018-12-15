@@ -10,14 +10,20 @@
     font-weight: 500;
   }
 
+  &--blue{
+    color: $main-blue;
+  }
+
   &__icon{
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: .6rem;
 
-    @mixin atSmall{
-      margin-right: .5rem;
+    @mixin atSmall {
+      position: relative;
+      top: 8px;
+      margin-right: 1.2rem;
       margin-left: 0;
       display: inline-block;
       margin-bottom: 0;
