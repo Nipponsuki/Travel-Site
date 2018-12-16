@@ -918,6 +918,10 @@ a{
   margin-bottom: 0;
 }
 
+.site-footer .wrapper{
+    margin-bottom: 0;
+  }
+
 .site-footer__text{
     display: block;
     margin-bottom: 1rem;
