@@ -1,2 +1,2 @@
 # travel-site
-https://nipponsuki.github.io/travel-site/.
+https://nipponsuki.github.io/Travel-Site/
